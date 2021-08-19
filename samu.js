@@ -95,7 +95,7 @@ const sleep = async (ms) => {
 }
 ////////////▶ Sxrgxx | Bot
 api = 'CONTACTAME PARA OBTENER LA API'
-fak = Sxrgxx'
+fak = 'Sxrgxx'
 prefix = '.'
 apikey = 'LindowApi'
 hit_today = []
